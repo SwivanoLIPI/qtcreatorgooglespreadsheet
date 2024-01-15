@@ -1,0 +1,2 @@
+# qtcreatorgooglespreadsheet
+PJH Project
